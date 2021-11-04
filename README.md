@@ -1,4 +1,7 @@
-## React Tutorial – The Beginners Guide to Learning React JS in 2020
+## React 
+A React todo app
+
+[ screenshot](./todo.gif)
 
 [To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
