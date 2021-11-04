@@ -1,7 +1,7 @@
 ## React 
 A React todo app
 
-[ screenshot](./todo.gif)
+![demo-gif](./todo.gif)
 
 [To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
 
